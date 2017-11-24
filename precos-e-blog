@@ -1,0 +1,254 @@
+<!-- ====== price ======  -->
+<section id="price" class="price section-padding">
+  <div class="container">
+
+    <!-- section head -->
+    <div class="section-head text-center">
+      <h6>Price Table</h6>
+      <h4>Our Pricing</h4>
+    </div>
+
+    <div class="row">
+
+      <!-- price items -->
+      <div class="col-md-4">
+        <div class="prc-item">
+          <div class="type">
+            <h5>Free</h5>
+          </div>
+          <div class="main-price">
+            <h1>0<span>$</span></h1>
+            <span class="per">Month</span>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> Any Ware Access</p>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> 10 GB Hosting</p>
+          </div>
+          <div class="features item-bord">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> 2 Unique Users</p>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> Support 24 / h</p>
+          </div>
+
+          <a href="demo-1#0">
+            <h6 class="button">Purchase</h6>
+          </a>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="prc-item active">
+          <div class="type">
+            <h5>Medium</h5>
+          </div>
+          <div class="main-price">
+            <h1>20<span>$</span></h1>
+            <span class="per">Month</span>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> Any Ware Access</p>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> 50 GB Hosting</p>
+          </div>
+          <div class="features item-bord">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> 5 Unique Users</p>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> Support 24 / h</p>
+          </div>
+
+          <a href="demo-1#0">
+            <h6 class="button">Purchase</h6>
+          </a>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="prc-item">
+          <div class="type">
+            <h5>Heavy</h5>
+          </div>
+          <div class="main-price">
+            <h1>50<span>$</span></h1>
+            <span class="per">Month</span>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> Any Ware Access</p>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> 100 GB Hosting</p>
+          </div>
+          <div class="features item-bord">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> 20 Unique Users</p>
+          </div>
+          <div class="features">
+            <p><span class="icon">
+              <i class="fa fa-check" aria-hidden="true"></i>
+            </span> Support 24 / h</p>
+          </div>
+
+          <a href="demo-1#0">
+            <h6 class="button">Purchase</h6>
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!-- ====== End price ======  -->
+
+<!--====== blog ======-->
+<section id="blog" class="blog section-padding">
+  <div class="container">
+
+    <!-- section head -->
+    <div class="section-head text-center">
+      <h6>Our Blog</h6>
+      <h4>Latest News</h4>
+    </div>
+
+    <div class="row">
+
+      <!-- posts -->
+      <div class="col-md-4">
+        <div class="post">
+          <div class="post-img">
+            <a href="demo-1#0">
+              <img src="http://d33wubrfki0l68.cloudfront.net/69af13713aabb49b53f59334c847f12bcfc7d55c/db634/img/blog/1.jpg" alt="image">
+            </a>
+          </div>
+          <div class="post-content">
+            <a href="demo-1#0">
+              <h6>Style In Braind and Logo</h6>
+            </a>
+            <p>Lorem ipsum dolor sit amet, consec tetur elit. In maximus ligula semper.</p>
+            <a href="demo-1#0"><span>Read More..</span></a>
+
+            <div class="info">
+              <ul>
+                <li>
+                  <a href="demo-1#">
+                    <span class="icon-profile-male"></span> Admin
+                  </a>
+                </li>
+                <li>
+                  <a href="demo-1#0">
+                    <span class="icon-clock"></span> 6 August
+                  </a>
+                </li>
+                <li>
+                  <a href="demo-1#0">
+                    <span class="icon-pricetags"></span> Web
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="post">
+          <div class="post-img">
+            <a href="demo-1#0">
+              <img src="http://d33wubrfki0l68.cloudfront.net/a172db73c78615b8169750c66acc917ba7bbad92/58617/img/blog/2.jpg" alt="image">
+            </a>
+          </div>
+          <div class="post-content">
+            <a href="demo-1#0">
+              <h6>Web Design And Web Graphic</h6>
+            </a>
+            <p>Lorem ipsum dolor sit amet, consec tetur elit. In maximus ligula semper.</p>
+            <a href="demo-1#0"><span>Read More..</span></a>
+
+            <div class="info">
+              <ul>
+                <li>
+                  <a href="demo-1#">
+                    <span class="icon-profile-male"></span> Admin
+                  </a>
+                </li>
+                <li>
+                  <a href="demo-1#0">
+                    <span class="icon-clock"></span> 6 August
+                  </a>
+                </li>
+                <li>
+                  <a href="demo-1#0">
+                    <span class="icon-pricetags"></span> Web
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <div class="post">
+          <div class="post-img">
+            <a href="demo-1#0">
+              <img src="http://d33wubrfki0l68.cloudfront.net/c3548b83f0bdbc7691506ab5d709f39b4a8a3c84/9fd32/img/blog/3.jpg" alt="image">
+            </a>
+          </div>
+          <div class="post-content">
+            <a href="demo-1#0">
+              <h6>Hipster’s Style In Web Design</h6>
+            </a>
+            <p>Lorem ipsum dolor sit amet, consec tetur elit. In maximus ligula semper.</p>
+            <a href="demo-1#0"><span>Read More..</span></a>
+
+            <div class="info">
+              <ul>
+                <li>
+                  <a href="demo-1#">
+                    <span class="icon-profile-male"></span> Admin
+                  </a>
+                </li>
+                <li>
+                  <a href="demo-1#0">
+                    <span class="icon-clock"></span> 6 August
+                  </a>
+                </li>
+                <li>
+                  <a href="demo-1#0">
+                    <span class="icon-pricetags"></span> Web
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+<!--====== End blog ======-->
