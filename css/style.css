@@ -1061,7 +1061,7 @@ p {
 
 .portfolio .filtering span {
     margin: 0 10px;
-    padding: 5px 10px;
+    padding: 5px 2px;
     font-size: 16px;
     color: #777;
     cursor: pointer
@@ -1080,8 +1080,8 @@ p {
     position: absolute;
     top: 0;
     left: 0;
-    right: 0;
-    bottom: 0;
+    right: 12px;
+    bottom: 11px;
     background: rgba(0,0,0,.9);
     opacity: 0;
     overflow: hidden;
@@ -1335,7 +1335,7 @@ p {
 .contact .main-form input {
     width: 100%;
     padding: 10px;
-    border: 1px solid #eee;
+    border: 1px solid #42afc2;
     background: #fafafa;
     margin-bottom: 15px
 }
@@ -1358,7 +1358,7 @@ p {
     max-height: 140px;
     padding: 10px;
     background: #fafafa;
-    border: 1px solid #eee
+    border: 1px solid #42afc2
 }
 
 .map {
