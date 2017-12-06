@@ -1,1 +1,1 @@
-$ echo "www.searchcode.com.br" > CNAME
+$ echo "searchcode.com.br" > CNAME
