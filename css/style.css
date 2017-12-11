@@ -1060,10 +1060,10 @@ p {
 }
 
 .portfolio .filtering span {
-    margin: 0 10px;
+    margin: 0 0px;
     padding: 5px 10px;
     font-size: 16px;
-    color: #777;
+    color: #000;
     cursor: pointer
 }
 
@@ -1078,11 +1078,11 @@ p {
 
 .portfolio .item-img .item-img-overlay {
     position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    background: rgba(0,0,0,.9);
+    top: 12px;
+    left: 18px;
+    right: 18px;
+    bottom: 16px;
+    background: rgba(18, 165, 182, 0.69);
     opacity: 0;
     overflow: hidden;
     transition: all .5s;
